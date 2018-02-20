@@ -58,3 +58,17 @@ body {
   border-top: none;
   border-left: none;
 }
+
+@media (max-width: 949px) {
+
+  .page {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .gif {
+    width: 100%;
+    height: auto;
+  }
+
+}
